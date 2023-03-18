@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "expo-test-app",
-    "slug": "expo-test-app"
+    "slug": "expo-test-app",
+    "extra": {
+      "eas": {
+        "projectId": "2aa8b5d0-5bcc-415b-a7c7-330ef2f927e3"
+      }
+    },
+    "android": {
+      "package": "com.brunodf.expotestapp"
+    }
   }
 }
